@@ -1,0 +1,3 @@
+[submodule "BgUtils"]
+	path = BgUtils
+	url = https://github.com/LuanRT/BgUtils.git
