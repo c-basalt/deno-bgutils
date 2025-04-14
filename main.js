@@ -1,7 +1,3 @@
-const visitorData = ["dQw4w9WgXcQ"];
-
-import { BG } from './BgUtils/dist/index.js'
-
 import jsdom from "https://esm.sh/v135/jsdom";
 localStorage.clear();
 global = window = globalThis;
